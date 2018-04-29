@@ -1,12 +1,12 @@
-# Microsoft TechSummit, Frankfurt
+# Microsoft TechSummit, Warsaw
 
-My code samples for the Microsoft TechSummit 2018 conference in Frankfurt, Germany
+My code samples for the Microsoft TechSummit 2018 conference in Warsaw, Poland
 
 # Presentation details, Slides
 
 You can see the details and the slides here:
 
-http://www.galasoft.ch/presentations/2018006
+http://www.galasoft.ch/presentations/2018017
 
 # Content
 
